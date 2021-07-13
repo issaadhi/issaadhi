@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Ethical Hacking, Robotics and AI.
 - 🌱 I’m currently learning as a Nerwork Engineering undergraduate.
 - 📫 You can reach me through my email or twitter
-      -Email - isuruadhikari2@gmail.com
-      -Twitter - issa0020
-
+-     Email - isuruadhikari2@gmail.com
+-     Twitter - issa0020
+      
 
