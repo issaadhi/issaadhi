@@ -2,7 +2,7 @@
 
 ## I'm a Human Being!!
 
-- 🌱 I’m currently a Nerwork Engineering undergraduate.
+- 🌱 I’m currently a Network Engineering undergraduate.
 - 👀 I’m also interested in Programming, Web development, Ethical Hacking and AI.
 - ⚡ Fun fact: I love  music and gaming.
 
