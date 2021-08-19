@@ -1,8 +1,14 @@
-<div align="center">  
+<div align="center">
   
 ## Hi , I'm Isuru - aka [Issa][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# I'm a Human Being!!
+  <p >   
+    
+<img align = "left" src="https://raw.githubusercontent.com/issaadhi/issaadhi/main/image/bit3.png" />  
+  </p>
+  
+  
+# I'm a Human Being!
 
  🌱 I’m currently a Network Engineering undergraduate. <br>
  👀 I’m also interested in Programming, Web development, Ethical Hacking and AI. <br>
@@ -18,7 +24,7 @@
 [<img alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.usbrandcolors.com/images/logos/instagram-logo.png" />][instagram]
 
-
+  <br>
 
 <b>Languages and Tools:</b>
 
@@ -32,8 +38,8 @@
 <img  alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-<br />
+<br><br><br><br>
+</div>
 
 ---
 
@@ -43,7 +49,7 @@
 
 
 --- 
-  </div>
+
 
 ### 📕 My Latest Work
 
