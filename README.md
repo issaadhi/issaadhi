@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi , I'm Isuru - aka [Issa][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi , I'm ISURU - aka [ISSA][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
   <p >   
     
