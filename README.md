@@ -67,6 +67,12 @@
 
 ---
 
+### ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=issaadhi">
+</a>
+<a href="https://github.com/issaadhi?tab=followers"><img src="https://img.shields.io/github/followers/issaadhi?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 [website]: https://portfolio.isuru.xyz/
 [twitter]: https://twitter.com/issa0020
