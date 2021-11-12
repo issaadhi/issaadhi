@@ -18,11 +18,27 @@
 
   <b>Find me on:</b>
 
-[<img alt="codeSTACKr.com" width="22px" src="https://image.pngaaa.com/729/1023729-middle.png" />][website] 
-[<img alt="codeSTACKr | YouTube" width="22px" src="https://cdn.usbrandcolors.com/images/logos/facebook-logo.svg" />][facebook]
-[<img alt="codeSTACKr | Twitter" width="22px" src="https://cdn.usbrandcolors.com/images/logos/twitter-logo.svg" />][twitter]
-[<img alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.usbrandcolors.com/images/logos/instagram-logo.png" />][instagram]
+  <div>
+    <a href="https://www.linkedin.com/in/isuruadhikari/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/is_sa_00/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.facebook.com/isuru.y.adhikari/">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </a> <br>
+    <a href="https://twitter.com/issa0020">
+      <img src="https://img.shields.io/badge/Twitter-FE7A16?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="mailto:isuruadhikari2@gmail.com?">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.hackerrank.com/isuruadhikari2">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    </a>
+    
+  </div>
 
   <br>
 
@@ -74,8 +90,3 @@
 <a href="https://github.com/issaadhi?tab=followers"><img src="https://img.shields.io/github/followers/issaadhi?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-[website]: https://portfolio.isuru.xyz/
-[twitter]: https://twitter.com/issa0020
-[facebook]: https://www.facebook.com/isuru.y.adhikari/
-[instagram]: https://www.instagram.com/is_sa_00/
-[linkedin]: https://www.linkedin.com/in/isuru-adhikari-72719a175/
