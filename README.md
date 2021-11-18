@@ -82,6 +82,8 @@
 <br>
  🚗 [Vehicle Management System](https://github.com/issaadhi/JavaFX_Vehicle_Managment_System)
  <br>
+ 💡 [IR Remote controlled LEDs](https://github.com/issaadhi/IR-remote-controlled-LEDs)
+ <br>
 <!-- BLOG-POST-LIST:END -->
 
 ---
