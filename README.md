@@ -75,7 +75,7 @@
 --- 
 
 
-### 📕 My Latest Work
+### 📕 My Work
 
 <!-- BLOG-POST-LIST:START -->
  📄 [My Personal Portfolio](https://portfolio.isuru.xyz/)
