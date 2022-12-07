@@ -11,6 +11,7 @@
 # I'm a Human Being!
 
  🌱 I’m currently a Network Engineering undergraduate. <br>
+ 💼 Working as an IT Support Associate at MAS Holdings. <br>
  👀 I’m also interested in Programming, Web development, Ethical Hacking and AI. <br>
  ⚡ Fun fact: I love  music and gaming. <br>
   
